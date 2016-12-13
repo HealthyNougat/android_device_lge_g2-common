@@ -110,6 +110,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Gello
 
+# KernelAdiutor
+PRODUCT_PACKAGES += \
+    KernelAdiutor
+
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8974
